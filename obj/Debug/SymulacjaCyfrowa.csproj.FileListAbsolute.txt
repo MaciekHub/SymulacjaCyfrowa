@@ -1,0 +1,15 @@
+C:\studa sem6\SC\Program\SymulacjaCyfrowa\bin\Debug\SymulacjaCyfrowa.exe.config
+E:\Studia\SC\program\SymulacjaCyfrowa\bin\Debug\SymulacjaCyfrowa.exe.config
+E:\Studia\SC\program\SymulacjaCyfrowa\bin\Debug\SymulacjaCyfrowa.exe
+E:\Studia\SC\program\SymulacjaCyfrowa\bin\Debug\SymulacjaCyfrowa.pdb
+E:\Studia\SC\program\SymulacjaCyfrowa\obj\Debug\SymulacjaCyfrowa.csprojResolveAssemblyReference.cache
+E:\Studia\SC\program\SymulacjaCyfrowa\obj\Debug\SymulacjaCyfrowa.csproj.CoreCompileInputs.cache
+E:\Studia\SC\program\SymulacjaCyfrowa\obj\Debug\SymulacjaCyfrowa.exe
+E:\Studia\SC\program\SymulacjaCyfrowa\obj\Debug\SymulacjaCyfrowa.pdb
+C:\studa sem6\SC\zad3\SymulacjaCyfrowa\bin\Debug\SymulacjaCyfrowa.exe.config
+C:\studa sem6\SC\zad3\SymulacjaCyfrowa\obj\Debug\SymulacjaCyfrowa.exe
+C:\studa sem6\SC\zad3\SymulacjaCyfrowa\obj\Debug\SymulacjaCyfrowa.pdb
+C:\studa sem6\SC\zad3\SymulacjaCyfrowa\bin\Debug\SymulacjaCyfrowa.exe
+C:\studa sem6\SC\zad3\SymulacjaCyfrowa\bin\Debug\SymulacjaCyfrowa.pdb
+C:\studa sem6\SC\zad3\SymulacjaCyfrowa\obj\Debug\SymulacjaCyfrowa.csprojAssemblyReference.cache
+C:\studa sem6\SC\zad3\SymulacjaCyfrowa\obj\Debug\SymulacjaCyfrowa.csproj.CoreCompileInputs.cache
